@@ -1,5 +1,5 @@
 # Prueba 
-Prueba de programcacion 
+Prueba de programación
 # Datos personales
 # Nombres:
 * Pilatasig Calvopiña Jeferson Richard 
