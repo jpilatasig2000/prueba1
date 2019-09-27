@@ -10,5 +10,5 @@ Prueba de programación
 1. ¿Qué es un paradigma?
 2. Realice un cuadro  reprecentativo de los paradigmas 
 # Conclusiones 
-* Los paradigmas  en el mundo de la programacion  nos permite solucionar problemas computacionales o plantiamientos al desarrollar un software
+* Comprendimos que los paradigmas de programacion  son muy importantes  por que atraves de ellos podemos hacer planteamientos para el desarrollo de un sofware
 * Se concluye que ningun paradigma es capaz de resolver  todos los problemas de forma sencilla, por lo tanto es util poder elegir entre distintos tipos de paradigmas  para facilitar la resolucion de un problema computacional. 
