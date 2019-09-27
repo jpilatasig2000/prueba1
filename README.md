@@ -4,7 +4,7 @@ Prueba de programación
 # Nombres:
 * Pilatasig Calvopiña Jeferson Richard 
 * Lozada Mayorga Darwin Fabricio
-# Carrera: Ing. Electromecanica  
+# Carrera: Ing. Electromecánica  
 # Nivel: segundo 
 # Lección N°: 1
 1. ¿Qué es un paradigma?
