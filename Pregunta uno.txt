@@ -1,0 +1,4 @@
+1. ¿Qué es un paradigma?
+Un paradigma de programación es un estilo de desarrollo de programas, es decir,
+ un modelo para resolver problemas computacionales,
+ los paradigmas fundaméntales están asociados a determinados modelos de computo.
