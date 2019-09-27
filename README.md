@@ -6,7 +6,7 @@ Prueba de programcacion
 * Lozada Mayorga Darwin Fabricio
 # Carrera: Ing. Electromecanica  
 # Nivel: segundo 
-# Leccón N°: 1
+# Lección N°: 1
 1. ¿Qué es un paradigma?
 2. Realice un cuadro  reprecentativo de los paradigmas 
 # Conclusiones 
